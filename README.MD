@@ -7,3 +7,10 @@ To run the "guess":
  
  start flask server:
  `FLASK_APP=start.py flask run`
+
+
+
+virtualenv:
+`virtualenv --system-site-packages -p python3 ./venv`
+`source ./venv/bin/activate`
+
