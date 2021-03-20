@@ -11,7 +11,7 @@ gast==0.2.0
 grpcio==1.16.0
 html5lib==0.9999999
 ItsDangerous==1.0.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 Markdown==3.0.1
 MarkupSafe==1.0
