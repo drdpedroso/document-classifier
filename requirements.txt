@@ -15,7 +15,7 @@ Jinja2==2.10
 jmespath==0.9.3
 Markdown==3.0.1
 MarkupSafe==1.0
-numpy==1.15.3
+numpy==1.22.0
 protobuf==3.6.1
 python-dateutil==2.7.3
 s3transfer==0.1.13
