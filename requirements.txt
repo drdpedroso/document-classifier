@@ -9,7 +9,7 @@ Flask==1.0.2
 Flask-Uploads==0.2.1
 gast==0.2.0
 grpcio==1.16.0
-html5lib==0.9999999
+html5lib==0.999999999
 ItsDangerous==1.0.0
 Jinja2==2.10
 jmespath==0.9.3
